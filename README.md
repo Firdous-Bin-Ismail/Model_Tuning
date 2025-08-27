@@ -2,16 +2,21 @@
 
 This repo shows how to tune ML models on the Iris dataset using:
 
-Cross-Validation (CV)
-GridSearchCV
-RandomizedSearchCV
+1. Cross-Validation (CV)
+
+2. GridSearchCV
+
+3. RandomizedSearchCV
 
 Steps->
 
-Load the Iris dataset
-Train classifiers (SVM, KNN, etc.)
-Tune hyperparameters with Grid & Random Search
-Compare results
+1. Load the Iris dataset
+
+2. Train classifiers (SVM, KNN, etc.)
+
+3. Tune hyperparameters with Grid & Random Search
+
+4. Compare results
 
 Tools->
 
